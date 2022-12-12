@@ -765,19 +765,19 @@ section {
   justify-content: center;
   width: 64px;
   height: 64px;
-  border: 2px solid #7ceec6;
+  border: 2px solid #ee7c7c;
   border-radius: 50px;
   transition: 0.5s;
 }
 
 .about .icon-box .icon i {
-  color: #1acc8d;
+  color: #cc1a1a;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #1acc8d;
-  border-color: #1acc8d;
+  background: #ffffff;
+  border-color: #cc1a1a;
 }
 
 .about .icon-box:hover .icon i {
@@ -797,7 +797,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #cc1a1a;
 }
 
 .about .icon-box .description {
